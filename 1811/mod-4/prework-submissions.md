@@ -95,7 +95,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 ## Taylor Sperry
 
 * [Node Server Tutorial]()
-* [Annotated Express server file]()
+* [Annotated Express server file](https://github.com/francepack/trapper-keeper-api/compare/m4-prework)
 * [Promise Practice Exercises]()
 
 ## Tom Wilhoit
